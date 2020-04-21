@@ -1,11 +1,17 @@
-## PrepareThatDamnDevelopmentEnvironmentLikeABoss
+# PrepareThatDamnDevelopmentEnvironmentLikeABoss
+#
+#
+#
+#
+#
+#
+##### What the hell is that?
+This is a shell script which automates the configuration steps to set up software development environments.
 
-### What the hell is that?
-Automates the configuration steps to set up software development environments.
-
-Features: upload, configure, check, test, deploy and adjust packages workflow.
-
-It supports many platforms.
 
 
-# I need to organize batch scripts and workflow well.
+##### Features:
+download packages, check environment, configure dependencies, install, test, publish, deploy and adjust workflow steps .
+
+# in developping progress..
+# I need to organize batch scripts and workflow well. 

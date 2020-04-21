@@ -2,9 +2,7 @@
 #
 #
 #
-#
-#
-#
+
 ##### What the hell is that?
 This is a shell script which automates the configuration steps to set up software development environments.
 

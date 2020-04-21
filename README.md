@@ -9,5 +9,5 @@ This is a shell script which automates the configuration steps to set up softwar
 ##### Features:
 download packages, check environment, configure dependencies, install, test, publish, deploy and adjust workflow steps .
 
-# in developping progress..
-# I need to organize batch scripts and workflow well. 
+#### in developping progress..
+#### needs to organize batch scripts and workflow well. 
